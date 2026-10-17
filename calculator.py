@@ -1,7 +1,9 @@
-CONTRIBUTORS = [Prathmesh]
+CONTRIBUTORS = [Prathmesh, Araib]
+
+main
 
 def add(a, b):
-    pass
+    return a + b
 
 def subtract(a, b):
     pass
@@ -15,5 +17,6 @@ def divide(a, b):
     return a / b
 
 if __name__ == "__main__":
-    print(f"Welcome to the Group Calculator!, written by {Prathmesh}")
+    print(f"Welcome to the Group Calculator!, written by {Prathmesh, Araib}")
     print(add(2, 2))
+    
