@@ -13,6 +13,6 @@ def divide(a, b):
     pass
 
 if __name__ == "__main__":
-    print(f"Welcome to the Group Calculator!, written by {CONTRIBUTORS}")
+    print(f"Welcome to the Group Calculator!, written by {seemal}")
     print(add(2, 2))
     print(subtract(5,3))
